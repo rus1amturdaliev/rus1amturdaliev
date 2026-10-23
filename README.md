@@ -1,12 +1,12 @@
 # Hi, I'm Rustam 👋
 
-Student at Tashkent University of Information Technologies (TUIT), learning software development and building small practical tools.
+Frontend developer working with React, TypeScript and JavaScript. I build clean, practical web apps and small tools. Studying at Tashkent University of Information Technologies (TUIT).
 
 ## Projects
 - **[Zoom Auto](https://github.com/rus1amturdaliev/zoom-auto)**: a minimalist Ubuntu desktop app (Python + tkinter) that opens online-class links automatically on a weekly schedule.
 
 ## Tech
-Python · C++ · Java · JavaScript · TypeScript · React · Git · Linux (Ubuntu)
+JavaScript · TypeScript · React · Git · GitHub
 
-## Currently
-Building more study and productivity tools, and improving my coding skills every week.
+## Learning
+C++
