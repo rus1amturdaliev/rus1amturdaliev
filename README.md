@@ -9,4 +9,4 @@ Frontend developer working with React, TypeScript and JavaScript. I build clean,
 JavaScript · TypeScript · React · Git · GitHub
 
 ## Learning
-C++
+C++, Python🐍
