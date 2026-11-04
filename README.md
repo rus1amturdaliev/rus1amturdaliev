@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Rustam Turdaliev — Frontend Developer" width="100%" />
+<img src="banner.svg" alt="Rustam Turdaliev — Frontend Developer" width="100%" />
 
 <h2 align="center">Hi, I'm Rustam — Frontend Developer</h2>
 
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rustamturdaliev.08@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-YOUR__EMAIL@gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-rustamturdaliev.08@gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/@davronovich_r1">
     <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
