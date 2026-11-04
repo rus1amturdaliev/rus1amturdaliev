@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Rustam Turdaliev — Frontend Developer" width="100%" />
+<img src="assets/banner.svg" alt="Rustam Turdaliev — Frontend Developer" width="100%" />
 
 <h2 align="center">Hi, I'm Rustam — Frontend Developer</h2>
 
