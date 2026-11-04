@@ -60,10 +60,11 @@ I work with React, TypeScript, and JavaScript. I enjoy creating clean interfaces
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - **Python** — Application development and automation.
 - **C++** — Programming fundamentals and problem solving.
-- **React & TypeScript** — Advanced concepts, types and application architecture.
+- **PostgreSQL** — Relational databases, SQL queries and schema design.
 
 ## How I Work
 
