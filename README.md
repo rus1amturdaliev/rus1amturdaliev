@@ -49,11 +49,6 @@ I work with React, TypeScript, and JavaScript. I enjoy creating clean interfaces
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 **Tools & Environment:**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,10 +58,12 @@ I work with React, TypeScript, and JavaScript. I enjoy creating clean interfaces
 
 ## Currently Learning
 
-- **C++** — Programming fundamentals and problem solving.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 - **Python** — Application development and automation.
-- **React** — Advanced concepts and reusable components.
-- **TypeScript** — Advanced types and application architecture.
+- **C++** — Programming fundamentals and problem solving.
+- **React & TypeScript** — Advanced concepts, types and application architecture.
 
 ## How I Work
 
