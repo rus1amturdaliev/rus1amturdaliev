@@ -1,26 +1,21 @@
-# Rustambek Turdaliyev — Frontend Developer
+<img src="assets/banner.svg" alt="Rustam Turdaliev — Frontend Developer" width="100%" />
 
-## Hi, I'm Rustam 👋
+<h2 align="center">Hi, I'm Rustam — Frontend Developer</h2>
 
-I'm Rustam, a Frontend Developer focused on building modern, responsive, and user-friendly web applications.
+<p align="center">
+  I build modern, responsive and user-friendly web applications with React, TypeScript and JavaScript.<br/>
+  Student at TUIT · Tashkent, Uzbekistan (UTC+5)
+</p>
 
-I work with React, TypeScript, and JavaScript. I enjoy creating clean interfaces, solving problems, and turning ideas into practical applications.
-
-🎓 Student at Tashkent University of Information Technologies (TUIT).
-📍 Tashkent, Uzbekistan (UTC+5)
-
-<p align="left">
-  <a href="https://github.com/rus1amturdaliev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/@davronovich_r1">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rustamturdaliev.08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-YOUR__EMAIL@gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/рустам-турдалиев-640b843b2">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://t.me/@davronovich_r1">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
