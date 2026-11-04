@@ -1,4 +1,4 @@
-# Rustam Turdaliev — Frontend Developer
+# Rustambek Turdaliyev — Frontend Developer
 
 ## Hi, I'm Rustam 👋
 
@@ -37,7 +37,7 @@ I work with React, TypeScript, and JavaScript. I enjoy creating clean interfaces
 
 | Project | Description | Stack |
 |---|---|---|
-| Zoom Auto | Ubuntu desktop application that automatically opens online-class links on a weekly schedule. | Python · Tkinter |
+| **[Zoom Auto](https://github.com/rus1amturdaliev/zoom-auto)** | Ubuntu desktop application that automatically opens online-class links on a weekly schedule. | Python · Tkinter |
 
 ## Tech Stack
 
@@ -83,6 +83,6 @@ I work with React, TypeScript, and JavaScript. I enjoy creating clean interfaces
 
 ## Language 
 
-- Rus , Uz
+- Russian
 
 ⭐ Thanks for visiting my profile!
